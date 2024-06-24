@@ -2,5 +2,5 @@
 <br>
 live url : https://justme-vivek.github.io/myapple/
 <br>
-![image](https://github.com/justme-vivek/myapple/assets/147023192/fb9a5fb8-8d90-480f-9e4c-d98eddbb93f3)
+![Screenshot 2024-06-24 160359](https://github.com/justme-vivek/myapple/assets/147023192/f52cdab9-71c4-4227-8ec5-f5952389bae9)
 
